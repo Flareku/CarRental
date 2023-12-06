@@ -1,6 +1,8 @@
 # Car Rental Application
 #### Autor: Bartłomiej Labenz
 
+**Email and password for the default administrator created is admin admin**
+
 This Car Rental Application provides a comprehensive platform for users to interact with a car rental service. The system caters to both regular users and administrators, offering functionalities for renting cars, managing rentals, and facilitating administrative tasks.
 
 ## Overview

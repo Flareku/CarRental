@@ -37,7 +37,7 @@ class LoginPage(ft.UserControl):
     def getUserData(self, e):
         # Check if 'userdata' directory exists, then retrieve and validate user data from the form
         if "userdata" not in os.listdir("./assets"):
-            os.mkdir("userdata")
+            os.mkdir("./assets/userdata")
         
         # Validate if email and password fields are not empty
         if self.email.value.strip() == "" or self.password.value.strip() == "":
